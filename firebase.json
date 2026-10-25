@@ -6,7 +6,9 @@
       "README.md",
       "**/.*",
       "**/node_modules/**",
-      "public/**"
+      "public/**",
+      "**/.*/**",
+      "firebase-debug.log*"
     ],
     "headers": [
       {
